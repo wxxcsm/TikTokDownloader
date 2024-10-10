@@ -56,15 +56,15 @@
 <ol>
 <li><b>运行可执行文件</b>
 <ol>
-<li>下载 <a href="https://github.com/JoeanAmier/TikTokDownloader/releases/latest">Releases</a> 发布的可执行文件压缩包</li>
+<li>下载 <a href="https://github.com/wxxcsm/TikTokDownloader/releases/tag/5.4">Releases</a> 发布的可执行文件压缩包</li>
 <li>解压后打开程序文件夹，双击运行 <code>main</code></li>
 </ol>
 </li>
 <li><b>配置环境运行</b>
 <ol>
 <li>安装不低于 <code>3.12</code> 版本的 <a href="https://www.python.org/">Python</a> 解释器</li>
-<li>下载 <a href="https://github.com/JoeanAmier/TikTokDownloader/releases/latest">Releases</a> 发布的源码至本地</li>
-<li>运行 <code>pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt</code> 命令安装程序所需模块</li>
+<li>下载 <a href="https://github.com/wxxcsm/TikTokDownloader/releases/tag/5.4">Releases</a> 发布的源码至本地</li>
+<li>运行 <code>py -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt</code> 命令安装程序所需模块</li>
 <li>运行 <code>python main.py</code> 命令启动 TikTokDownloader</li>
 </ol>
 </li> 
